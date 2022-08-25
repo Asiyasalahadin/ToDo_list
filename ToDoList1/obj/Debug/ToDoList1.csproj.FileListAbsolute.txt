@@ -1,0 +1,12 @@
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\bin\Debug\ToDoList1.exe.config
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\bin\Debug\ToDoList1.exe
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\bin\Debug\ToDoList1.pdb
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.Form1.resources
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.Properties.Resources.resources
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.csproj.GenerateResource.cache
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.exe
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.pdb
+C:\Users\Bisrat\Desktop\Asiya\ToDoList1\obj\Debug\ToDoList1.Form2.resources
